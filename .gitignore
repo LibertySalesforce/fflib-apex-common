@@ -1,5 +1,1 @@
-.vim-force.com/
-
-*.prefs
-
-fflib/salesforce.schema
+.sfdx
