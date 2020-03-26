@@ -1,0 +1,752 @@
+[
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585254821710,
+            "changeTime": 1585254821710,
+            "contentHash": "c5e725f595b8ad02eabc29cdb208767d87c9aabc",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585254254843,
+            "changeTime": 1585254821710,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585254283091,
+            "changeTime": 1585254283091,
+            "contentHash": "f5f1495dc689a3a28447fe41ba0431343b1c53c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585255083483,
+            "changeTime": 1585255083483,
+            "contentHash": "ac9920878ed1c6180907bc277c6354d759ab0d24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_Application.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_Application.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15686,
+            "modifiedTime": 1585243015089,
+            "changeTime": 1585255066776,
+            "contentHash": "2f963347dba12107e2a0748dfef5c4e09a0f341e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_Application.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_Application.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015089,
+            "changeTime": 1585255083394,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectDomain.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectDomain.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1940,
+            "modifiedTime": 1585243015090,
+            "changeTime": 1585255066787,
+            "contentHash": "eab599c86d0536bd3bbf42b45003bd968087ea90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectDomain.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectDomain.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015091,
+            "changeTime": 1585255083404,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectSelector.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1585243015091,
+            "changeTime": 1585255066795,
+            "contentHash": "93d95c5d7b4be3a769ce25589e5c7d818eb4b9e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectSelector.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015091,
+            "changeTime": 1585255083413,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectUnitOfWork.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectUnitOfWork.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10866,
+            "modifiedTime": 1585243015091,
+            "changeTime": 1585255066804,
+            "contentHash": "d80857ccb6901dc4ba8f09c8001c18a8264c4f6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectUnitOfWork.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_ISObjectUnitOfWork.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015092,
+            "changeTime": 1585255083426,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_QueryFactory.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_QueryFactory.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 35030,
+            "modifiedTime": 1585243015092,
+            "changeTime": 1585255066813,
+            "contentHash": "878e94823cf7f7d2f338dfb6fead01302cd7a055",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_QueryFactory.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_QueryFactory.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015092,
+            "changeTime": 1585255083433,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SecurityUtils.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SecurityUtils.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15336,
+            "modifiedTime": 1585243015098,
+            "changeTime": 1585255066851,
+            "contentHash": "bc9bc6b2906af4557afe253dc4c2101f7d58a650",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SecurityUtils.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SecurityUtils.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015098,
+            "changeTime": 1585255083468,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDescribe.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDescribe.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13316,
+            "modifiedTime": 1585243015093,
+            "changeTime": 1585255066821,
+            "contentHash": "ea67fdb793f978d98994bb6bb0d01e8c1dc0d726",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDescribe.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDescribe.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015094,
+            "changeTime": 1585255083438,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDomain.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDomain.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37021,
+            "modifiedTime": 1585243015095,
+            "changeTime": 1585255066829,
+            "contentHash": "a8af88009caa6980fff9855ddf7eefdee35c7ac6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDomain.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectDomain.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015095,
+            "changeTime": 1585255083448,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectSelector.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 18991,
+            "modifiedTime": 1585243015096,
+            "changeTime": 1585255066836,
+            "contentHash": "11b7a852b57b3d54247edcfa7858473eedd1529a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectSelector.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015096,
+            "changeTime": 1585255083453,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectUnitOfWork.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectUnitOfWork.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33004,
+            "modifiedTime": 1585243015097,
+            "changeTime": 1585255066844,
+            "contentHash": "3c00bd93782a7a1bdec73878e57f5cad8ebb4c7f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectUnitOfWork.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_SObjectUnitOfWork.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015097,
+            "changeTime": 1585255083463,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_StringBuilder.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_StringBuilder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5050,
+            "modifiedTime": 1585243015099,
+            "changeTime": 1585255066859,
+            "contentHash": "32bf96918120c945dc80dab4ac80258a2a78c289",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_StringBuilder.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\classes\\fflib_StringBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015099,
+            "changeTime": 1585255083483,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\labels",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585255098661,
+            "changeTime": 1585255098661,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\main\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4322,
+            "modifiedTime": 1585243015100,
+            "changeTime": 1585255098661,
+            "contentHash": "71b73d6e81451146324336c0bdad6d0865a55680",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585254295038,
+            "changeTime": 1585254295038,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585254953096,
+            "changeTime": 1585254953096,
+            "contentHash": "15027d248427427df0e3daa570e5212fd9e60259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_ApplicationTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_ApplicationTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 22470,
+            "modifiedTime": 1585243015090,
+            "changeTime": 1585254449814,
+            "contentHash": "9b104e201513bd5155463a5d12837b1ae2b616a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_ApplicationTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_ApplicationTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 147,
+            "modifiedTime": 1585243015090,
+            "changeTime": 1585254953029,
+            "contentHash": "c5059d9b81462e92467231de51119ceea0055a36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_QueryFactoryTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_QueryFactoryTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33986,
+            "modifiedTime": 1585243015093,
+            "changeTime": 1585254886402,
+            "contentHash": "1960fd1cd21af856bc8cb7c9ba5c5e913f6c2143",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_QueryFactoryTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_QueryFactoryTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015093,
+            "changeTime": 1585254953035,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SecurityUtilsTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SecurityUtilsTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9458,
+            "modifiedTime": 1585243015099,
+            "changeTime": 1585254886442,
+            "contentHash": "50195391e3766580c8c599dbbf42073ecd1ba32d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SecurityUtilsTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SecurityUtilsTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015099,
+            "changeTime": 1585254953079,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDescribeTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDescribeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8953,
+            "modifiedTime": 1585243015094,
+            "changeTime": 1585254886407,
+            "contentHash": "ec798e64a79abfac5519a903d8c210d94882ac32",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDescribeTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDescribeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015094,
+            "changeTime": 1585254953047,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDomainTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDomainTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 22500,
+            "modifiedTime": 1585243015095,
+            "changeTime": 1585254886417,
+            "contentHash": "b7d96ae755644b99a48f7eae9cbdf17a5daac800",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDomainTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectDomainTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015095,
+            "changeTime": 1585254953056,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectSelectorTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectSelectorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12483,
+            "modifiedTime": 1585243015096,
+            "changeTime": 1585254886427,
+            "contentHash": "f5e403a9a35680d7a165f919dee6a0af1170d92b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectSelectorTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectSelectorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015097,
+            "changeTime": 1585254953064,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectUnitOfWorkTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectUnitOfWorkTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 25678,
+            "modifiedTime": 1585243015098,
+            "changeTime": 1585254886437,
+            "contentHash": "6b588783a0d909694690c058b66557d629238ebf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectUnitOfWorkTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_SObjectUnitOfWorkTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015098,
+            "changeTime": 1585254953071,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_StringBuilderTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_StringBuilderTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5702,
+            "modifiedTime": 1585243015099,
+            "changeTime": 1585254886452,
+            "contentHash": "ce8480f82ad854fe598e8d13802f50de01d182b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_StringBuilderTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\fflib_StringBuilderTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015100,
+            "changeTime": 1585254953096,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585255053055,
+            "changeTime": 1585255053055,
+            "contentHash": "cfae94dcc4bfe0b86ecaf50c77b9e7114abbffc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks\\fflib_SObjectMocks.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks\\fflib_SObjectMocks.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8863,
+            "modifiedTime": 1585243015096,
+            "changeTime": 1585255040118,
+            "contentHash": "e7a4a334054fcab1f65150099eb8bcb50a83d6f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks\\fflib_SObjectMocks.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common\\sfdx-source\\apex-common\\test\\classes\\mocks\\fflib_SObjectMocks.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1585243015096,
+            "changeTime": 1585255053055,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LibertyITS\\Code\\fflib-apex-common",
+        {
+            "state": "n",
+            "sourcePath": "C:\\LibertyITS\\Code\\fflib-apex-common",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1585255519418,
+            "changeTime": 1585255519418,
+            "contentHash": "9672433b6ed88ca32f4b7a5bc04e371dc6d4cf04",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
