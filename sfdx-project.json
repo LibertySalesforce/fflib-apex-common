@@ -4,7 +4,7 @@
     "sourceApiVersion": "48.0",
     "packageDirectories": [
         {
-            "path": "sfdx-source",
+            "path": "sfdx-source/apex-common",
             "default": true,
             "package": "fflib_commons_lits",
             "versionNumber": "0.1.0.NEXT",
