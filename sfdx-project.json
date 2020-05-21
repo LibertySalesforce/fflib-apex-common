@@ -11,7 +11,7 @@
             "dependencies": [
                 {
                     "package": "fflib_mocks_lits",
-                    "versionNumber": "0.1.0.1"
+                    "versionNumber": "0.1.0.LATEST"
                 }
             ]
         }
